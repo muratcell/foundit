@@ -1,0 +1,12 @@
+
+{
+  "name": "foundit",
+  "version": "1.0.0",
+  "description": "Lost & Found Community App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
